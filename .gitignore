@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.pdb
+__pycache__/
+*.class
